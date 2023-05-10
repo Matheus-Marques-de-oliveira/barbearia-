@@ -1,0 +1,30 @@
+h1 {
+text-align: center;
+color:darkred;
+background-color: darkslategray;
+font-weight: bold;
+font-style: italic;
+}
+
+.interiorpng {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+    border-radius: 20px;
+    border-style:groove;
+    border-width: 20px;
+}
+
+h2 {
+text-align: center;
+color: rgb(199, 18, 18);
+background-color: darkslategray;
+font-weight: bold;
+font-style: italic;
+}
+
+body {
+
+    background-color:gray;
+}
