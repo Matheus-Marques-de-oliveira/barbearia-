@@ -1,0 +1,12 @@
+h1 {
+text-align: center;    
+color: black;
+background-color: darkslategray;
+font-weight:bold;
+font-style: italic;
+margin-right: auto;
+margin-left: auto;
+border-radius: 20px;
+border-style: groove;
+border-width: 5px;
+}

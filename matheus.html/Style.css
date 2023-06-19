@@ -1,9 +1,12 @@
 h1 {
 text-align: center;
-color:darkred;
+color: black;
 background-color: darkslategray;
-font-weight: bold;
+font-weight:bold;
 font-style: italic;
+border-radius: 10px;
+border-style: groove;
+border-width: 5px;
 }
 
 .interiorpng {
@@ -18,13 +21,26 @@ font-style: italic;
 
 h2 {
 text-align: center;
-color: rgb(199, 18, 18);
+color: black;
 background-color: darkslategray;
-font-weight: bold;
+font-weight:bold;
 font-style: italic;
+border-radius: 10px;
+border-style: groove;
+border-width: 5px;
 }
 
 body {
+background-color:gray;
 
-    background-color:gray;
+}
+
+b {
+color: black;
+
+}
+
+p {
+color: black;
+
 }
