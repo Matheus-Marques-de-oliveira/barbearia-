@@ -1,46 +1,53 @@
 h1 {
-text-align: center;
-color: black;
-background-color: darkslategray;
-font-weight:bold;
-font-style: italic;
-border-radius: 10px;
-border-style: groove;
-border-width: 5px;
+    text-align: center;
+    color: black;
+    background-color: darkslategray;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 10px;
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
 }
 
 .interiorpng {
     display: block;
-    margin-left: auto;
+    margin-left: 50px;
     margin-right: auto;
-    max-width: 400px;
-    border-radius: 20px;
-    border-style:groove;
-    border-width: 20px;
+    max-width: 500px;
+    border-radius: 5px;
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
 }
 
 h2 {
-text-align: center;
-color: black;
-background-color: darkslategray;
-font-weight:bold;
-font-style: italic;
-border-radius: 10px;
-border-style: groove;
-border-width: 5px;
+    text-align: center;
+    color: black;
+    background-color: darkslategray;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 10px;
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
 }
 
 body {
-background-color:gray;
-
+    background-color: gray;
+    text-align: right;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 20px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: black;
 }
 
 b {
-color: black;
-
+    color: black;
 }
 
 p {
-color: black;
-
+    color: black;
 }

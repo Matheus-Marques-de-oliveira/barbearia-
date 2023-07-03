@@ -6,7 +6,22 @@ font-weight:bold;
 font-style: italic;
 margin-right: auto;
 margin-left: auto;
-border-radius: 20px;
-border-style: groove;
+border-radius: 10px;
+border-style: double;
 border-width: 5px;
+border-color: black;
+}
+
+body {
+text-align: left; 
+color: black;  
+background-color: gray; 
+font-weight: bold;
+font-style: italic;
+margin-right: auto;
+margin-left: auto;
+border-radius: 20px;
+border-style:groove;
+border-width: 5px;
+border-color: black;
 }
