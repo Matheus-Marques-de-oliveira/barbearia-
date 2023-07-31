@@ -25,7 +25,6 @@ h2 {
 .interiorpng {
     display:inline-block;
     margin: 50px;
-   
     max-width: 500px;
     border-radius: 7px;
     border-style: double;
@@ -33,14 +32,18 @@ h2 {
     border-color: black;
 }
 
-body{
-    background-color: gray;   
+.fundoindex.jpg {
+    margin: 50px;
+}
+
+body{   
     font-weight: bold;
     font-style: italic;
     border-radius: 20px;
     border-style: groove;
     border-width: 5px;
     border-color: black;
+    background-image: url("fundoindex.jpg");
 }
 
 .body1 {
@@ -55,7 +58,8 @@ b {
 }
 
 p {
-    color: red;
+    color: darkred;
     font-weight: bold;
     font-style: italic;
 }
+

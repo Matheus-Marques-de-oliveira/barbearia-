@@ -1,27 +1,45 @@
 h1 {
-text-align: center;    
-color: black;
-background-color: darkslategray;
-font-weight:bold;
-font-style: italic;
-margin-right: auto;
-margin-left: auto;
-border-radius: 10px;
-border-style: double;
-border-width: 5px;
-border-color: black;
+    text-align: center;    
+    color: red;
+    background-color: blue;
+    font-weight:bold;
+    font-style: italic;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
 }
 
 body {
-text-align: left; 
-color: black;  
-background-color: gray; 
-font-weight: bold;
-font-style: italic;
-margin-right: auto;
-margin-left: auto;
-border-radius: 20px;
-border-style:groove;
-border-width: 5px;
-border-color: black;
+    text-align: left; 
+    color: red; 
+    font-weight: bold;
+    font-style: italic;
+    background-image: url(fundoindex.jpg);
+}
+
+.header {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    left: 0;
+    top: 110px;
+    border-style: double;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+}
+
+nav li {
+    display: inline-block;
 }
