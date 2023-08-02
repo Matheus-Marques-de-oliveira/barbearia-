@@ -63,3 +63,44 @@ p {
     font-style: italic;
 }
 
+.cromwellpng {
+    display: block;
+    margin: 50px;
+    max-width: 500px;
+    border-radius: 7px;
+    border-style: double;
+    border-width: 7px;
+    border-color: black;
+}
+
+.churchillpng {
+    display: block;
+    margin: 50px;
+    max-width: 500px;
+    border-radius: 7px;
+    border-style: double;
+    border-width: 7px;
+    border-color: black;
+}
+
+.achillespng {
+    display: block;
+    margin: 50px;
+    max-width: 500px;
+    border-radius: 7px;
+    border-style: double;
+    border-width: 7px;
+    border-color: black;
+}
+
+.tortoisepng {
+    display: block;
+    margin: 50px;
+    max-width: 500px;
+    border-radius: 7px;
+    border-style: double;
+    border-width: 7px;
+    border-color: black;
+    
+}
+

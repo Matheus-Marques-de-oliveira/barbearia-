@@ -1,11 +1,9 @@
 h1 {
-    text-align: center;    
+    text-align: left;    
     color: red;
     background-color: blue;
     font-weight:bold;
     font-style: italic;
-    margin-right: auto;
-    margin-left: auto;
     border-radius: 10px;
     border-style: double;
     border-width: 5px;
@@ -13,8 +11,7 @@ h1 {
 }
 
 body {
-    text-align: left; 
-    color: red; 
+    color: red;
     font-weight: bold;
     font-style: italic;
     background-image: url(fundoindex.jpg);
@@ -41,5 +38,12 @@ nav {
 }
 
 nav li {
-    display: inline-block;
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+.produtos {
+    width: 940px;
+    margin: 0;
+    padding: 0 auto;
 }
